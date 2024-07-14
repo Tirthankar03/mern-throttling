@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.items {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.item {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 10px 0;
+}
